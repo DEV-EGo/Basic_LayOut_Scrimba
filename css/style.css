@@ -1,3 +1,7 @@
 body {
   background: whitesmoke;
 }
+
+.container {
+  background-image: url("./img/jp.jpg");
+}
