@@ -1,9 +1,10 @@
 body {
-  background: whitesmoke;
+  background: #2e6a3a;
+  margin: 0;
 }
 
 header {
-  background-color: #4a4a4a;
+  background-color: #4a4a4aa6;
   color: blanchedalmond;
   text-align: center;
   padding: 25px 0;
@@ -11,10 +12,11 @@ header {
 }
 
 main {
-  background-color: #e4e4e4;
+  background-color: #d79038f2;
   width: 600px;
   padding: 25px;
   border: solid 5px black;
+  margin: 0 auto;
 }
 
 img {
@@ -24,9 +26,9 @@ img {
 }
 
 footer {
-  background-color: #4a4a4a;
+  background-color: #4a4a4aa6;
   color: blanchedalmond;
   text-align: center;
-  padding: 25px;
-  margin-bottom: 25px;
+  padding: 25px 0;
+  margin-top: 25px;
 }
