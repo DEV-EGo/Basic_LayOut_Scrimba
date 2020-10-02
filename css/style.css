@@ -1,12 +1,3 @@
 body {
   background: whitesmoke;
 }
-
-.container {
-  /* background-image: url("./img/jp.jpg"); */
-  background-blend-mode: screen;
-}
-
-.container--blend {
-  background-blend-mode: screen;
-}
